@@ -192,6 +192,14 @@ React • Node.js • Express • MongoDB • Socket.io • JWT
 
 ---
 
+## 🏆 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/prakhar_ffv?theme=dark&font=baloo&ext=contest" alt="LeetCode Stats"/>
+</p>
+
+---
+
 # 🤝 Connect With Me
 
 <p>

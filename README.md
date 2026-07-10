@@ -184,7 +184,7 @@ React • Node.js • Express • MongoDB • Socket.io • JWT
 
 <p align="left">
 
-<a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/">
+<a href="https://leetcode.com/u/prakhar_ffv/">
     <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"/>
 </a>
 

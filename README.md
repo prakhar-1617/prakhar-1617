@@ -116,7 +116,7 @@ React • Node.js • Express • MongoDB • Socket.io • JWT
 
 💻 400+ DSA Problems Solved
 
-🏆 LeetCode Rating: **1500**
+🏆 LeetCode Rating: **1600+**
 
 📚 Strong understanding of
 
@@ -166,15 +166,27 @@ React • Node.js • Express • MongoDB • Socket.io • JWT
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=prakhar-1617&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakhar-1617&layout=compact&theme=github_dark&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=prakhar-1617&theme=github-dark&hide_border=true"/>
+
+</p>
+
+---
+
+## 💻 Coding Profiles
+
+<p align="left">
+
+<a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"/>
+</a>
 
 </p>
 
@@ -184,21 +196,19 @@ React • Node.js • Express • MongoDB • Socket.io • JWT
 
 <p>
 
-<a href="YOUR_LINKEDIN_LINK">
+<a href="https://www.linkedin.com/in/prakharkumar1617">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:prakharkumarcse@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/prakhar-1617">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="YOUR_PORTFOLIO_LINK">
-🌐 Portfolio
-</a>
+
 
 </p>
 
